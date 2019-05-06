@@ -29,9 +29,12 @@
 .clickable{
   cursor: pointer;
 }
+.port{
+  text-align: center;
+}
 .port img{
   width: 30%;
-  display: flex;
+  display: flex
 }
 .form{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
@@ -47,4 +50,7 @@
  }
 .form-group textarea{
   background: transparent;
+}
+.row{
+  text-align: center;;
 }

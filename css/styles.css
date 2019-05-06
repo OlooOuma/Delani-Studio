@@ -29,3 +29,6 @@
 .clickable{
   cursor: pointer;
 }
+.text-center border border-light p-5{
+  background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
+}

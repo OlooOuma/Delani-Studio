@@ -23,7 +23,7 @@
     text-align: center;
     color: white;
 }
-#hidden{
+.hidden{
   display: none;
 }
 .clickable{
@@ -32,9 +32,13 @@
 h1{
   text-align: center;
 }
+.port div{
+    width: 22%;
+    margin-bottom: 2%;
+    padding: 20px;
+  }
 .port img{
-  width: 30%;
-  display: flex
+  width: 85%;
 }
 .form{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
@@ -43,7 +47,7 @@ h1{
   background-position: center;
   padding: 10px;
 }
-.form-group input{
+.form-group input email{
     margin-right: 2%;
     justify-content: space-around;
    background: transparent;

@@ -29,7 +29,7 @@
 .clickable{
   cursor: pointer;
 }
-.port{
+h1{
   text-align: center;
 }
 .port img{
@@ -53,4 +53,10 @@
 }
 .row{
   text-align: center;;
+}
+.mwisho{
+  text-align: center;
+}
+.tail{
+  text-align: center;
 }

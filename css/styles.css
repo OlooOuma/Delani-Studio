@@ -29,6 +29,22 @@
 .clickable{
   cursor: pointer;
 }
-.text-center border border-light p-5{
+.port img{
+  width: 30%;
+  display: flex;
+}
+.form{
   background-image: url("https://github.com/jonnygovish/IP3/blob/master/assets/backgrounds/c_image.jpg?raw=true");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  padding: 10px;
+}
+.form-group input{
+    margin-right: 2%;
+    justify-content: space-around;
+   background: transparent;
+ }
+.form-group textarea{
+  background: transparent;
 }

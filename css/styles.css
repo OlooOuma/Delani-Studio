@@ -62,4 +62,6 @@ h1{
 .tail{
   text-align: center;
 }
-.btn
+.btn{
+  background-color: #00BFFF	;
+}
